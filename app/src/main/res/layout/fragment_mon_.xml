@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mon_Fragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="ADD movie"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        />
+
+
+    <EditText
+        android:id="@+id/movie"
+        android:layout_width="309dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="61dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="41dp"
+        android:ems="10"
+        android:hint="name movie"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/place"
+        android:layout_width="309dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="63dp"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="39dp"
+        android:ems="10"
+        android:hint="type the number of places"
+        android:inputType="numberDecimal"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="116dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/place"
+        android:layout_alignEnd="@+id/place"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="17dp"
+        android:text="ADD" />
+
+
+</RelativeLayout>

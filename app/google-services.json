@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "173783485163",
+    "firebase_url": "https://testdb-d53a5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testdb-d53a5",
+    "storage_bucket": "testdb-d53a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173783485163:android:6d8425c163809ff7e44cae",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPReWb2Dog7KK8qm_9GjvWauAYVIT9Bbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173783485163:android:f1d523c2017f9b91e44cae",
+        "android_client_info": {
+          "package_name": "com.example.devoir_leonel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPReWb2Dog7KK8qm_9GjvWauAYVIT9Bbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173783485163:android:17c5060b6a9ff7c0e44cae",
+        "android_client_info": {
+          "package_name": "com.example.testdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPReWb2Dog7KK8qm_9GjvWauAYVIT9Bbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173783485163-f8b6a0hner7gsh3kcf9mshbh8bmcd3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
